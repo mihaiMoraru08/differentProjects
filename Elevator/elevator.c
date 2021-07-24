@@ -98,7 +98,7 @@ while (1){
         }
         ligth(floor);
         OCR0A = 0x00;
-        printf("Etajul %d \n", floor);
+        printf("Floor %d \n", floor);
         }
         break;
          case 2:
@@ -122,7 +122,7 @@ while (1){
         }
         OCR0A = 0x00; 
         ligth(floor);
-        printf("Etajul %d \n", floor);
+        printf("Floor %d \n", floor);
         }
         break;
          case 3:
